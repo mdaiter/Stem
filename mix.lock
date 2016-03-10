@@ -1,0 +1,12 @@
+%{"amnesia": {:git, "https://github.com/meh/amnesia.git", "63f6aef1888b15669f80b5e06af32d151f23e4ff", [tag: :master]},
+  "bbmustache": {:hex, :bbmustache, "1.0.3"},
+  "conform": {:hex, :conform, "0.17.0"},
+  "erlware_commons": {:hex, :erlware_commons, "0.15.0"},
+  "exquisite": {:hex, :exquisite, "0.1.6"},
+  "exrm": {:hex, :exrm, "1.0.2"},
+  "getopt": {:hex, :getopt, "0.8.2"},
+  "neotoma": {:hex, :neotoma, "1.7.3"},
+  "nerves": {:hex, :nerves, "0.2.0"},
+  "nerves_io_ethernet": {:git, "https://github.com/nerves-project/nerves_io_ethernet.git", "ad039a730665ee772191f72161cdc35833977fc9", [tag: "v0.5.1"]},
+  "providers": {:hex, :providers, "1.4.1"},
+  "relx": {:hex, :relx, "3.5.0"}}

@@ -1,0 +1,12 @@
+v1.
+{<<"/Users/msd/Code/distributedBio/_build/dev/lib/nerves/ebin/Elixir.Nerves.beam">>,
+ 'Elixir.Nerves',<<"lib/nerves.ex">>,
+ ['Elixir.Kernel'],
+ [],[],nil}.
+{<<"/Users/msd/Code/distributedBio/_build/dev/lib/nerves/ebin/Elixir.ReleaseManager.Plugin.Nerves.beam">>,
+ 'Elixir.ReleaseManager.Plugin.Nerves',<<"lib/nerves/release.ex">>,
+ ['Elixir.ReleaseManager.Config','Elixir.Kernel','Elixir.Module',
+  'Elixir.ReleaseManager.Utils.Logger','Elixir.ReleaseManager.Plugin'],
+ [erlang,'Elixir.Path','Elixir.String.Chars','Elixir.String','Elixir.File',
+  'Elixir.Enum','Elixir.System'],
+ [],nil}.

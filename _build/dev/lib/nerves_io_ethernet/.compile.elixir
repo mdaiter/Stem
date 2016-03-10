@@ -1,0 +1,26 @@
+v1.
+{<<"/Users/msd/Code/distributedBio/_build/dev/lib/nerves_io_ethernet/ebin/Elixir.Nerves.IO.Ethernet.Helpers.beam">>,
+ 'Elixir.Nerves.IO.Ethernet.Helpers',<<"lib/ethernet/helpers.ex">>,
+ ['Elixir.Kernel','Elixir.Module','Elixir.Logger'],
+ [],[],nil}.
+{<<"/Users/msd/Code/distributedBio/_build/dev/lib/nerves_io_ethernet/ebin/Elixir.Nerves.IO.Ethernet.beam">>,
+ 'Elixir.Nerves.IO.Ethernet',<<"lib/ethernet.ex">>,
+ ['Elixir.Kernel.Typespec','Elixir.Kernel','Elixir.Module','Elixir.Dict',
+  'Elixir.Logger','Elixir.Application'],
+ [erlang,'Elixir.Nerves.IO.Ethernet.Subsystem','Elixir.String.Chars',
+  'Elixir.Nerves.IO.Ethernet.Server','Elixir.GenServer','Elixir.Atom'],
+ [],nil}.
+{<<"/Users/msd/Code/distributedBio/_build/dev/lib/nerves_io_ethernet/ebin/Elixir.Nerves.IO.Ethernet.Server.beam">>,
+ 'Elixir.Nerves.IO.Ethernet.Server',<<"lib/ethernet/server.ex">>,
+ ['Elixir.Kernel','Elixir.Module','Elixir.Logger'],
+ [erlang,'Elixir.GenEvent','Elixir.Access',
+  'Elixir.Nerves.IO.Ethernet.Subsystem','Elixir.String.Chars',crypto,
+  'Elixir.Dict','Elixir.Enum'],
+ [],nil}.
+{<<"/Users/msd/Code/distributedBio/_build/dev/lib/nerves_io_ethernet/ebin/Elixir.Nerves.IO.Ethernet.Subsystem.beam">>,
+ 'Elixir.Nerves.IO.Ethernet.Subsystem',<<"lib/ethernet/subsystem.ex">>,
+ ['Elixir.Kernel.Typespec','Elixir.Kernel','Elixir.Mix','Elixir.Module',
+  'Elixir.Dict','Elixir.String','Elixir.Logger'],
+ ['Elixir.Regex',erlang,'Elixir.String.Chars','Elixir.File','Elixir.Enum',
+  'Elixir.Application'],
+ [],nil}.

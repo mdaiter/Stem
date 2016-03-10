@@ -1,0 +1,10 @@
+{application,nerves_io_ethernet,
+             [{registered,[]},
+              {description,"Nerves Ethernet IO Module"},
+              {applications,[kernel,stdlib,elixir,logger,crypto]},
+              {mod,{'Elixir.Nerves.IO.Ethernet',[]}},
+              {vsn,"0.5.1"},
+              {modules,['Elixir.Nerves.IO.Ethernet',
+                        'Elixir.Nerves.IO.Ethernet.Helpers',
+                        'Elixir.Nerves.IO.Ethernet.Server',
+                        'Elixir.Nerves.IO.Ethernet.Subsystem']}]}.

@@ -1,0 +1,8 @@
+v1.
+{<<"/Users/msd/Code/distributedBio/_build/dev/lib/exquisite/ebin/Elixir.Exquisite.beam">>,
+ 'Elixir.Exquisite',<<"lib/exquisite.ex">>,
+ ['Elixir.Kernel.Typespec','Elixir.Module','Elixir.Kernel'],
+ [erlang,'Elixir.List','Elixir.Access','Elixir.Atom','Elixir.Enum',
+  'Elixir.Dict','Elixir.String.Chars',ets,'Elixir.Macro',
+  'Elixir.RuntimeError','Elixir.Tuple','Elixir.SyntaxError'],
+ [],nil}.
